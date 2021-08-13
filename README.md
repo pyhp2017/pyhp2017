@@ -14,7 +14,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/main/1200px-Vue.js_Logo_2.svg.png" alt="vuejs" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/main/0_zwm6LgCEadPeVdnA.png" alt="django" width="40" height="40"/> </a>
+    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/main/0_zwm6LgCEadPeVdnA.png" alt="django" width="80" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/b7a031310bf8970e0947bd305a82a02e8c6e340f/PHP-logo.svg" alt="php" width="80" height="40"/> </a>
