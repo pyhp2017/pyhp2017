@@ -35,3 +35,5 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ahmad%20Foroughi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-foroughi-2b8642197/)](https://www.linkedin.com/in/ahmad-foroughi-2b8642197)
+
+Email: pyhp2017@gmail.com
