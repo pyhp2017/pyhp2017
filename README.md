@@ -4,7 +4,7 @@
   <br> I'm Ahmad Foroughi :blush:<br>
   <br> Developer :computer:<br>
   <br>
-    <img style="text-align:center;" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
