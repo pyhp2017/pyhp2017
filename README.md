@@ -19,8 +19,8 @@
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/b7a031310bf8970e0947bd305a82a02e8c6e340f/PHP-logo.svg" alt="php" width="80" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://docker.com/" target="_blank"> <img src="https://github.com/pyhp2017/pyhp2017/blob/main/homepage-docker-logo.png?raw=true" alt="docker" width="80" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/pyhp2017/pyhp2017/blob/main/5ca13d8453042.image.jpg?raw=true" alt="linux" width="80" height="40"/> </a>
+ <a href="https://docker.com/" target="_blank"> <img src="https://github.com/pyhp2017/pyhp2017/blob/main/homepage-docker-logo.png?raw=true" alt="docker" width="50" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/pyhp2017/pyhp2017/blob/main/5ca13d8453042.image.jpg?raw=true" alt="linux" width="50" height="40"/> </a>
 
 </p>
 
