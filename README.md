@@ -2,7 +2,7 @@
  <abc>
   <br>Hi there <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/main/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Ahmad Foroughi :blush:<br>
-  <br> Developer :computer:<br>
+  <br> DevOps Engineer :computer:<br>
   <br>
     <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
