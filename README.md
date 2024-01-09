@@ -23,8 +23,26 @@
  <a href="https://docker.com/" target="_blank"> <img src="https://github.com/pyhp2017/pyhp2017/blob/main/homepage-docker-logo.png?raw=true" alt="docker" width="50" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/pyhp2017/pyhp2017/blob/main/5ca13d8453042.image.jpg?raw=true" alt="linux" width="50" height="40"/> </a>
  
-- ![Python](https://img.shields.io/badge/Python-Expert-blue)
+- ![DevOps](https://img.shields.io/badge/DevOps-Expert-blue)
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-blue)
+- ![Ansible](https://img.shields.io/badge/Ansible-Advanced-blue)
+- ![Docker](https://img.shields.io/badge/Docker-Advanced-blue)
+- ![Python](https://img.shields.io/badge/Python-Advanced-blue)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-yellow)
+- ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-yellow)
+- ![Helm](https://img.shields.io/badge/Helm-Intermediate-yellow)
+- ![Terraform](https://img.shields.io/badge/Terraform-Intermediate-yellow)
+- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-Intermediate-yellow)
+- ![Elastic Search](https://img.shields.io/badge/Elastic%20Search-Intermediate-yellow)
+- ![Go](https://img.shields.io/badge/Go-Intermediate-yellow)
+- ![C](https://img.shields.io/badge/C-Intermediate-yellow)
+- ![Relational Database](https://img.shields.io/badge/Relational%20Database-Intermediate-yellow)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-yellow)
+- ![Flask](https://img.shields.io/badge/Flask-Intermediate-yellow)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-yellow)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+- ![Sentry](https://img.shields.io/badge/Sentry-Intermediate-yellow)
 
 </p>
 
