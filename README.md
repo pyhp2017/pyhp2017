@@ -31,16 +31,17 @@
 </p>
 
 <h2 align="left">Projects</h2>
-- [Microservice Application - Sigasi Internship](https://www.sigasi.com/online/): Designed and implemented a microservice application during the internship at Sigasi.
-- [Simple Kubernetes Controller](https://github.com/pyhp2017/simple-kubernetes-controller): Developed a simple Kubernetes controller for specific use cases.
-- [Scandiweb Stack](https://github.com/pyhp2017/scandiweb-stack): Infrastructure to host Magento 2 application on AWS. Easy to install and manage.
-- [Requesto](https://github.com/pyhp2017/Requesto): Monitoring tool for HTTP endpoints, written in Python using Django Rest Framework.
-- [Django OpenVPN Maker](https://github.com/pyhp2017/Django-OpenVpn-Maker): Web interface with Django for creating OpenVPN users using the docker-openvpn repository.
-- [TCP Monitor](https://github.com/pyhp2017/tcp_monitor_golang): Simple application to collect TCP packets information for Prometheus. It serves as an exporter.
-- [Tank Trouble](https://github.com/pyhp2017/Tank-Trouble): Multiplayer game where you compete with friends or computer-controlled tanks.
-- [LinuxFest Website Backend](https://github.com/pyhp2017/LinuxFest-Website-backend): Backend of the LinuxFest website.
-- [ReserveRoom](https://github.com/pyhp2017/ReserveRoom): Simple API-based web application for reserving meeting rooms.
-- [Blog CMS](https://github.com/pyhp2017/Blog-CMS): Content Management System for managing digital content, suitable for enterprise and web content management.
+
+- ![Microservice Application - Sigasi Internship](https://www.sigasi.com/online/): Designed and implemented a microservice application during the internship at Sigasi.
+- ![Simple Kubernetes Controller](https://github.com/pyhp2017/simple-kubernetes-controller): Developed a simple Kubernetes controller for specific use cases.
+- ![Scandiweb Stack](https://github.com/pyhp2017/scandiweb-stack): Infrastructure to host Magento 2 application on AWS. Easy to install and manage.
+- ![Requesto](https://github.com/pyhp2017/Requesto): Monitoring tool for HTTP endpoints, written in Python using Django Rest Framework.
+- ![Django OpenVPN Maker](https://github.com/pyhp2017/Django-OpenVpn-Maker): Web interface with Django for creating OpenVPN users using the docker-openvpn repository.
+- ![TCP Monitor](https://github.com/pyhp2017/tcp_monitor_golang): Simple application to collect TCP packets information for Prometheus. It serves as an exporter.
+- ![Tank Trouble](https://github.com/pyhp2017/Tank-Trouble): Multiplayer game where you compete with friends or computer-controlled tanks.
+- ![LinuxFest Website Backend](https://github.com/pyhp2017/LinuxFest-Website-backend): Backend of the LinuxFest website.
+- ![ReserveRoom](https://github.com/pyhp2017/ReserveRoom): Simple API-based web application for reserving meeting rooms.
+- ![Blog CMS](https://github.com/pyhp2017/Blog-CMS): Content Management System for managing digital content, suitable for enterprise and web content management.
 
 <h2 align="left">Skills</h2>
 
