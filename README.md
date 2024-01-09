@@ -24,6 +24,7 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/pyhp2017/pyhp2017/blob/main/5ca13d8453042.image.jpg?raw=true" alt="linux" width="50" height="40"/> </a>
  </p>
 
+
 ### Skills
 - ![DevOps](https://img.shields.io/badge/DevOps-Expert-blue)
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-blue)
@@ -45,3 +46,6 @@
 
 - Email: pyhp2017@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ahmad-foroughi)
+
+### GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pyhp2017&show_icons=true&theme=radical)
