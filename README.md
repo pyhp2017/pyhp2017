@@ -1,10 +1,18 @@
-<h2 align="left">
-  <br>Hi there <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/main/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Ahmad Foroughi :blush:<br>
-  <br> Senior Platform Engineer | Kubernetes | Go | Open-Source Contributor :rocket:<br>
-  <br>
-    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</h2>
+<p align="center">
+  <img src="./platform-header.svg" alt="Fernando (Ahmad) Foroughi - Senior Platform Engineer" width="100%">
+</p>
+
+<h1 align="center">Fernando (Ahmad) Foroughi</h1>
+
+<p align="center">
+  Senior Platform Engineer | Kubernetes | Go | Open-Source Contributor
+</p>
+
+<p align="center">
+  <a href="https://pyhp2017.github.io/">Website</a> ·
+  <a href="https://www.linkedin.com/in/ahmad-foroughi">LinkedIn</a> ·
+  <a href="mailto:pyhp2017@gmail.com">Email</a>
+</p>
 
 ---
 
@@ -86,5 +94,6 @@
 
 ### :heart: Let's Connect!
 
+- Website: [pyhp2017.github.io](https://pyhp2017.github.io/)
 - Email: [pyhp2017@gmail.com](mailto:pyhp2017@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ahmad-foroughi)
