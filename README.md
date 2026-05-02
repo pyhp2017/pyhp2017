@@ -60,6 +60,8 @@
 
 - [**Microservice Application - Sigasi Internship**](https://www.sigasi.com/online/): Designed and implemented a microservice application during my internship at Sigasi.
 - [**Simple Kubernetes Controller**](https://github.com/pyhp2017/simple-kubernetes-controller): Developed a simple Kubernetes controller for specific use cases.
+- [**Zero Trust Network Architecture**](https://github.com/pyhp2017/zero-trust-network-kntu-master): Implemented a Zero Trust architecture using Elastic SIEM, Keycloak, Docker/Kubernetes, attack simulation, and security dashboards.
+- [**Telegram Text Browser Bot**](https://github.com/pyhp2017/telegram-browser-project): Built a Telegram bot for browsing and searching the web as clean plain text with link navigation and pagination.
 - [**Scandiweb Stack**](https://github.com/pyhp2017/scandiweb-stack): Infrastructure to host Magento 2 application on AWS. Easy to install and manage.
 - [**Requesto**](https://github.com/pyhp2017/Requesto): Monitoring tool for HTTP endpoints, built with Python and Django Rest Framework.
 - [**Django OpenVPN Maker**](https://github.com/pyhp2017/Django-OpenVpn-Maker): A web interface built with Django for managing OpenVPN users using the Docker OpenVPN repository.
