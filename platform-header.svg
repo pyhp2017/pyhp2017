@@ -1,6 +1,6 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Fernando Ahmad Foroughi - Senior Platform Engineer</title>
-  <desc id="desc">A platform engineering banner with Kubernetes, Go, infrastructure, security, and open-source themes.</desc>
+  <desc id="desc">A platform engineering banner with Kubernetes, Go, infrastructure, and security themes.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
       <stop stop-color="#111827"/>
@@ -27,11 +27,12 @@
     <circle cx="98" cy="92" r="7" fill="#F87171"/>
     <circle cx="122" cy="92" r="7" fill="#FBBF24"/>
     <circle cx="146" cy="92" r="7" fill="#34D399"/>
-    <text x="96" y="152" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">$ kubectl get platforms</text>
-    <text x="96" y="194" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">NAME        STACK                 STATUS</text>
-    <text x="96" y="230" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">prod        k8s / go / traefik    resilient</text>
-    <text x="96" y="266" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">secure      talos / encryption    hardened</text>
-    <text x="96" y="302" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">oss         verdaccio / snuba     active</text>
+    <text x="96" y="150" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">$ kubectl get platform</text>
+    <text x="96" y="188" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">NAME       ROLE              SKILLS          STATUS</text>
+    <line x1="96" y1="204" x2="579" y2="204" stroke="#334155" stroke-width="1"/>
+    <text x="96" y="232" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">fernando   senior-platform   k8s,go          ready</text>
+    <text x="96" y="266" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">ingress    edge-platform     traefik,talos   active</text>
+    <text x="96" y="300" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">security   infra-hardening   encryption      hardened</text>
   </g>
 
   <g transform="translate(708 72)">
@@ -58,7 +59,7 @@
       <path d="M20 28L27 35L39 19"/>
       <path d="M124 20H140V36H124Z"/>
       <path d="M236 17V39M225 28H247"/>
-      <text x="0" y="78" fill="#CBD5E1" stroke="none" font-family="Inter, ui-sans-serif, system-ui" font-size="18">Cloud native systems. Secure infrastructure. Open source.</text>
+      <text x="0" y="78" fill="#CBD5E1" stroke="none" font-family="Inter, ui-sans-serif, system-ui" font-size="18">Cloud native platforms. Secure infrastructure. Reliable operations.</text>
     </g>
   </g>
 </svg>
