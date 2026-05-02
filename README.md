@@ -1,38 +1,50 @@
 <h2 align="left">
   <br>Hi there <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/main/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Ahmad Foroughi :blush:<br>
-  <br> DevOps Engineer | Cloud Enthusiast | Open-Source Contributor :rocket:<br>
+  <br> Senior Platform Engineer | Kubernetes | Go | Open-Source Contributor :rocket:<br>
   <br>
     <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h2>
 
 ---
 
+### :man_technologist: What I Do
+
+- Senior Platform Engineer focused on Kubernetes, platform reliability, and production infrastructure.
+- Mostly working with Kubernetes and Go these days.
+- Building and operating systems with Traefik, Talos Linux, Docker, Linux, Terraform, Ansible, and disk encryption.
+- Using Claude and Codex as part of my daily engineering workflow.
+- Contributing to open-source projects around package registries, observability, distributed systems, and infrastructure tooling.
+
+---
+
 ### :hammer_and_wrench: Technologies & Tools
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/main/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com" target="_blank"> <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/main/0_zwm6LgCEadPeVdnA.png" alt="Django" width="80" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-  <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/b7a031310bf8970e0947bd305a82a02e8c6e340f/PHP-logo.svg" alt="PHP" width="80" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://docker.com/" target="_blank"> <img src="https://github.com/pyhp2017/pyhp2017/blob/main/homepage-docker-logo.png?raw=true" alt="Docker" width="50" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/pyhp2017/pyhp2017/blob/main/5ca13d8453042.image.jpg?raw=true" alt="Linux" width="50" height="40"/> </a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://www.traefik.io/" target="_blank"><img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik"/></a>
+  <a href="https://www.talos.dev/" target="_blank"><img src="https://img.shields.io/badge/Talos_Linux-FF7300?style=for-the-badge&logo=linux&logoColor=white" alt="Talos Linux"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.anthropic.com/claude" target="_blank"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/></a>
+  <a href="https://openai.com/codex/" target="_blank"><img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/></a>
+  <img src="https://img.shields.io/badge/Disk_Encryption-2D3748?style=for-the-badge&logo=linux&logoColor=white" alt="Disk Encryption"/>
 </p>
 
 ---
 
-### :chart_with_upwards_trend: GitHub Stats
+### :sparkles: Open-Source Contributions
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyhp2017&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+- [Verdaccio v6.4.0](https://github.com/verdaccio/verdaccio/releases/tag/v6.4.0): contributed to the package filter plugin work included in the release.
+- [getsentry/snuba #6826](https://github.com/getsentry/snuba/pull/6826): proposed migration robustness improvements for multi-replica and multi-shard ClickHouse clusters.
+- [kommodity-io/kommodity #288](https://github.com/kommodity-io/kommodity/pull/288): contributed to the Kommodity project.
 
 ---
 
@@ -53,19 +65,21 @@
 
 ### :muscle: Skills
 
-- ![DevOps](https://img.shields.io/badge/DevOps-Expert-blue)
+- ![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-Senior-blue)
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-blue)
-- ![Ansible](https://img.shields.io/badge/Ansible-Advanced-blue)
-- ![Terraform](https://img.shields.io/badge/Terraform-Intermediate-yellow)
+- ![Go](https://img.shields.io/badge/Go-Advanced-blue)
+- ![Traefik](https://img.shields.io/badge/Traefik-Advanced-blue)
+- ![Talos Linux](https://img.shields.io/badge/Talos_Linux-Advanced-blue)
+- ![Disk Encryption](https://img.shields.io/badge/Disk_Encryption-Advanced-blue)
+- ![Terraform](https://img.shields.io/badge/Terraform-Advanced-blue)
 - ![Docker](https://img.shields.io/badge/Docker-Advanced-blue)
-- ![Python](https://img.shields.io/badge/Python-Advanced-blue)
 
 ---
 
 ### 👨🏻‍💻 About Me
 
-- :hourglass_flowing_sand: Exploring new VPN protocols, web tools, and DevOps methodologies.
-- :rocket: Open to collaboration on exciting development projects.
+- :hourglass_flowing_sand: Working on Kubernetes platforms, Go services, infrastructure automation, and secure Linux systems.
+- :rocket: Open to collaboration on platform engineering, cloud-native, observability, and open-source infrastructure projects.
 - :dart: Life Motto: "Focus on progress, not perfection."
 
 ---
