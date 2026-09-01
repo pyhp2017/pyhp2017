@@ -53,6 +53,8 @@
 - [envoyproxy/ai-gateway #2392](https://github.com/envoyproxy/ai-gateway/pull/2392): fixed a bug where `content-length` wasn't stripped when switching to streamed mode, causing Envoy to truncate SSE streaming responses.
 - [verdaccio/charts #202](https://github.com/verdaccio/charts/pull/202): added HPA and PodDisruptionBudget support to the Verdaccio Helm chart, fixing a conflict between hardcoded replicas and GitOps controllers.
 - [Verdaccio v6.4.0](https://github.com/verdaccio/verdaccio/releases/tag/v6.4.0): contributed to the package filter plugin work included in the release.
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts): contributed 4 merged PRs including consumer liveness checks, ClickHouse `internal_replication` config fix, built-in Prometheus exporter migration, and missing `configOverride` in replica StatefulSets.
+- [kommodity-io/kommodity-autobootstrap-extension #27](https://github.com/kommodity-io/kommodity-autobootstrap-extension/pull/27): added support for LUKS2-encrypted STATE partitions in the Talos autobootstrap extension.
 - [getsentry/snuba #6826](https://github.com/getsentry/snuba/pull/6826): proposed migration robustness improvements for multi-replica and multi-shard ClickHouse clusters.
 - [kommodity-io/kommodity #288](https://github.com/kommodity-io/kommodity/pull/288): contributed to the Kommodity project.
 
